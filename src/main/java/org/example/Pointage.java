@@ -20,6 +20,8 @@ package org.example;
  */
 public class Pointage {
 
+    //Bonjour
+
     /** Score total accumulé durant la partie */
     private Integer totalPoints;
 
